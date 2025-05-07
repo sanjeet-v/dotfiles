@@ -14,7 +14,7 @@ unset __conda_setup
 # <<< conda initialize <<<
 
 # My Custom Aliases
-alias ll='ls -lGh'
+alias ll='ls -alGh'
 
 # Git branch in prompt
 function parse_git_branch() {
